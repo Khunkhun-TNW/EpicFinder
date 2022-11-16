@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">FxFindingFibonacciMember</string>
+    <string name="app_name">EpicFinder</string>
+    <string-array name="spinnerView">
+        <item>FibonacciFunction</item>
+        <item>PrimeNumberFunction</item>
+    </string-array>
 </resources>
